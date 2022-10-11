@@ -1,0 +1,30 @@
+h1{
+    color: rgb(68, 68, 225);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.container button{
+
+    background: rgb(68, 68, 225);
+    box-shadow: 1px 1px 4px #DADADA;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-radius: 10%;
+}
+
+.container button:hover{
+
+    background: rgb(189, 189, 218);
+    
+}
+
+.output{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.container form{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
